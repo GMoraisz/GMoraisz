@@ -6,8 +6,11 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
 
 - ✉️ moraisgabriel923@gmail.com
   
- ## Technologies:
+ ## 🚀 Technologies:                                                         
+
 
   - REACT
   - JAVASCRIPT
+
+ ### ![image](https://github.com/GMoraisz/GMoraisz/assets/136760261/e76fbd23-5418-42d1-a8ab-9f05f221af3e)
 
