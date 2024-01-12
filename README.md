@@ -12,5 +12,6 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
   - REACT
   - JAVASCRIPT
 
- ### ![image](https://github.com/GMoraisz/GMoraisz/assets/136760261/e76fbd23-5418-42d1-a8ab-9f05f221af3e)
+ ### ![3_akhd (1)](https://github.com/GMoraisz/GMoraisz/assets/136760261/6f031606-d454-431f-8a5c-fa5226726958)
+
 
