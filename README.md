@@ -10,9 +10,12 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
  ## 🚀 Technologies:                                                         
 
 
-###  - REACT
-###  - JAVASCRIPT
+###  - REACT 
 
- ### ![3_akhd (1)](https://github.com/GMoraisz/GMoraisz/assets/136760261/6f031606-d454-431f-8a5c-fa5226726958)
+###  - JAVASCRIPT 
+
+
+<img align="center"> ![3_akhd (2)](https://github.com/GMoraisz/GMoraisz/assets/136760261/cd4cd241-d77a-45ff-8d54-820b7b848ea9) </img> 
+
 
 
