@@ -11,7 +11,11 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
 
 
 - REACT 
-- JAVASCRIPT 
+- JAVASCRIPT
+- JSX
+- Node.JS
+- MySQL
+- BootStrap
 
 
 <img align="center"> ![3_akhd (2)](https://github.com/GMoraisz/GMoraisz/assets/136760261/cd4cd241-d77a-45ff-8d54-820b7b848ea9) </img> 
