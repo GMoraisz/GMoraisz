@@ -13,9 +13,7 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
 - Java
 - SpringBoot
 - Flutter
-- REACT 
-- JAVASCRIPT
-- Node.JS
+- REACTJs
 - MySQL / PostgreSQL
 - BootStrap
 
