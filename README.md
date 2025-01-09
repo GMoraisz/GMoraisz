@@ -9,6 +9,7 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
   
  ## 🚀 Technologies:                                                         
 
+- Python
 - Java
 - SpringBoot
 - Flutter
