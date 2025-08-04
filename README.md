@@ -11,12 +11,10 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
 
 - Python
 - C#
-- SpringBoot
 - Flutter
 - REACTJs
-- MySQL / PostgreSQL
-- BootStrap
-- TailwindCSS
+- SQLServer / PostgreSQL
+- TailwindCS
 
 
 
