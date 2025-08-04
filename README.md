@@ -14,7 +14,7 @@ Furthermore, I have intermediate knowledge of English, which allows me to commun
 - Flutter
 - REACTJs
 - SQLServer / PostgreSQL
-- TailwindCS
+- TailwindCSS
 
 
 
